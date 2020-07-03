@@ -1,0 +1,9 @@
+/images
+/saved_model
+/__pycache__
+/train_small
+/train_xs
+/train2014
+/vgg_model
+*.model
+*.png
